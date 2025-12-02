@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "MonotonRegular";
+    src: url("MonotonRegular.ttf");
+}
+
+
+.container {
+    width: 1200px;
+    margin:auto;
+}
+
+.container2 {
+    position: relative;
+    top: 30px;
+    text-align: center;
+    background-color: rgba(245, 39, 145, 0.71);
+    width: 800px;
+    margin: auto;
+    z-index: 10;
+    font-family: "MonotonRegular";
+    font-size: 70px;
+    
+    
+}
+
+.container3 {
+    position: relative;
+    top: -30px;
+    text-align: center;
+    background-color: rgba(245, 39, 145, 0.71);
+    width: 800px;
+    margin: auto;
+    z-index: 10;
+    font-family: "MonotonRegular";
+    font-size: 80px;
+    
+    
+}
+
+.container4 {
+    position: relative;
+    top: -20px;
+    text-align: center;
+    background-color: rgba(245, 39, 145, 0.71);
+    width: 800px;
+    margin: auto;
+    z-index: 10;
+    font-family: "MonotonRegular";
+    font-size: 30px;
+    
+    
+}
+
+.container5 {
+    position: relative;
+    top: 20px;
+    text-align: center;
+    background-color: rgba(245, 39, 145, 0.71);
+    width: 800px;
+    margin: auto;
+    z-index: 10;
+    font-family: "MonotonRegular";
+    font-size: 20px;
+    
+    
+}
+
+
+.container6 {
+    position: relative;
+    top: 50px;
+    text-align: center;
+    background-color: rgba(245, 39, 145, 0.71);
+    width: 800px;
+    margin: auto;
+    z-index: 10;
+    font-family: "MonotonRegular";
+    font-size: 20px;
+    
+    
+}
+
+#mysketch {
+    position: absolute;
+    top:20px;
+}
+
+
